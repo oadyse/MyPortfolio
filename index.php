@@ -1,12 +1,13 @@
-@include('portfolio_sari.header')
-
+<?php
+include('header');
+?>
 <main id="main">
-
-    @include('portfolio_sari.about')
-    @include('portfolio_sari.skills')
-    @include('portfolio_sari.resume')
-    @include('portfolio_sari.portfolio')
-
+    <?php
+    include('about');
+    include('skills');
+    include('resume');
+    include('portfolio');
+    ?>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
         <div class="container" data-aos="fade-up">
@@ -45,5 +46,6 @@
     </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
-
-@include ('portfolio_sari.footer')
+<?php
+include('footer');
+?>
