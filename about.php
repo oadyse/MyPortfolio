@@ -8,7 +8,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <img src="{{ asset('template/assets/img/pic.jpg') }}" class="img-fluid" alt="">
+                <img src="assets/img/pic.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content">
                 <h3>Final Year - Informatics Engineering Student</h3>
