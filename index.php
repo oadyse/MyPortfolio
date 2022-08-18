@@ -1,12 +1,12 @@
 <?php
-include('header');
+include('header.php');
 ?>
 <main id="main">
     <?php
-    include('about');
-    include('skills');
-    include('resume');
-    include('portfolio');
+    include('about.php');
+    include('skills.php');
+    include('resume.php');
+    include('portfolio.php');
     ?>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -47,5 +47,5 @@ include('header');
 
 </main><!-- End #main -->
 <?php
-include('footer');
+include('footer.php');
 ?>
