@@ -78,8 +78,7 @@
                             financial reports.
                         </li>
                         <li><b>Link Project:
-                                <a href="https://github.com/Wulandr/SimonsiSVUNS"
-                                    class="bx bx-chevron-right-circle"></a>
+                                <a href="https://github.com/Wulandr/SimonsiSVUNS" class="bx bx-chevron-right-circle"></a>
                             </b>
                         </li>
                     </ul>
