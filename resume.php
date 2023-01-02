@@ -11,9 +11,9 @@
                 <h3 class="resume-title">Education</h3>
                 <div class="resume-item pb-0">
                     <h4>Associate Degree of Informatics Engineering</h4>
-                    <h5>2019 - Present</h5>
+                    <h5>2019 - 2022</h5>
                     <p><em>Sebelas Maret University, Surakarta, Central Java</em></p>
-                    <p>Semester 1<sub>st</sub> - 5<sub>th</sub> GPA : 3.78/4.00</p>
+                    <p>GPA : 3.79/4.00</p>
                 </div>
 
                 <h3 class="resume-title">Work Experience</h3>
@@ -66,6 +66,34 @@
 
             <div class="col-lg-6">
                 <h3 class="resume-title">Personal & Collaborative Projects</h3>
+                <div class="resume-item">
+                    <h4>Web Profile of Company</h4>
+                    <h4><em>(LARAVEL, BOOTSTRAP - Personal Project)</em></h4>
+                    <h5>Web Developer - 2022</h5>
+                    <p><em>UD. OGLYX PANDIGA</em></p>
+                    <ul>
+                        <li>This is a web profile of UD. OGLYX PANDIGA.
+                        </li>
+                        <li><b>Link Project:
+                                <a href="https://github.com/oadyse/web-profil-oglyx" class="bx bx-chevron-right-circle"></a>
+                            </b>
+                        </li>
+                    </ul>
+                </div>
+                <div class="resume-item">
+                    <h4>Web Profile of Company</h4>
+                    <h4><em>(HTML, CSS, BOOTSTRAP - Personal Project)</em></h4>
+                    <h5>Web Developer - 2022</h5>
+                    <p><em>Lucienne Lab</em></p>
+                    <ul>
+                        <li>This is a web profile of Lucienne Lab.
+                        </li>
+                        <li><b>Link Project:
+                                <a href="https://oadyse.github.io/lucienne-lab/" class="bx bx-chevron-right-circle"></a>
+                            </b>
+                        </li>
+                    </ul>
+                </div>
                 <div class="resume-item">
                     <h4>Web Information System MONEV Sekolah Vokasi UNS : Finance Modul</h4>
                     <h4><em>(LARAVEL, BOOTSTRAP - Collaborative Project)</em></h4>

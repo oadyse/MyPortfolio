@@ -36,7 +36,7 @@ include('header.php');
                         <div class="phone">
                             <i class="bi bi-phone"></i>
                             <h4>Call:</h4>
-                            <p>+62 85784378582</p>
+                            <p>+62 85731064421</p>
                         </div>
                     </div>
                 </div>
